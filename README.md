@@ -3,7 +3,7 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+Quick CMD I like to keep in mind:)
 - ctrl S = save
 - MVC
 - Model, View, Controller
@@ -14,6 +14,7 @@ Things you may want to cover:
 - resources :routename gives you all the CRUD actions in routes.rb file
 - rails console brings up rails on CMD
 - VERSION CONTROL - Github
+- To get ssh in cloud9IDE cat ~/.ssh/id_rsa.pub
 * Ruby version
 
 * System dependencies
